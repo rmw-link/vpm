@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@rmw/coffee-loader": "^0.0.4",
+    "@rmw/thisdir": "^0.0.2",
+    "chalk": "^5.0.0",
+    "msgpackr": "^1.5.4",
+    "source-map-support": "^0.5.21",
+    "zstandard-wasm": "^1.5.0-rev.3"
+  },
+  "dependencies": {
+    "knex": "^1.0.3",
+    "lodash-es": "^4.17.21",
+    "pg": "^8.7.3",
+    "pg-parse-float": "^0.0.1"
+  }
+}

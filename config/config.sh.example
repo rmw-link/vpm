@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+export db_host=
+export db_password=
+
+export db_username=admin
+export db_port=5433
+export db_database=yugabyte
+export db_options="?sslmode=verify-full&sslrootcert=$PWD/config/yugabyte.cer"

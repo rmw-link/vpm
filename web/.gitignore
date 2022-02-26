@@ -1,0 +1,10 @@
+node_modules/
+
+.DS_Store
+*.log
+*.out
+
+vite.config.js
+config/*.js
+src/index.html
+dist/
