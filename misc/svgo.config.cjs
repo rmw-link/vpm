@@ -7,7 +7,6 @@ module.exports = {
         cleanupNumericValues: {
           floatPrecision: 4,
         },
-        removeDimensions:true,
         removeViewBox:false,
       },
     },
