@@ -11,10 +11,10 @@
     "last 3 versions"
   ],
   "devDependencies": {
-    "@arco-design/web-vue": "^2.18.0-beta.1",
+    "@arco-design/web-vue": "^2.18.1",
     "@arco-themes/vue-vlang-vpm": "^0.0.2",
     "@sergeymakinen/vite-plugin-html-minimize": "^1.0.1",
-    "@vitejs/plugin-vue": "^2.2.2",
+    "@vitejs/plugin-vue": "^2.2.4",
     "autoprefixer": "^10.4.2",
     "coffeescript": "^2.6.1",
     "concurrently": "^7.0.0",
@@ -22,11 +22,11 @@
     "pug": "^3.0.2",
     "rollup-plugin-coffee2": "^0.1.16",
     "stylus": "^0.56.0",
-    "unplugin-auto-import": "^0.6.1",
+    "unplugin-auto-import": "^0.6.4",
     "unplugin-vue-components": "^0.17.21",
-    "vite": "^2.8.4",
+    "vite": "^2.8.6",
     "vite-plugin-compress": "^2.1.0",
-    "vite-plugin-html": "^3.0.6",
+    "vite-plugin-html": "^3.1.0",
     "vue": "^3.2.31"
   }
 }

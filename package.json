@@ -3,7 +3,7 @@
   "devDependencies": {
     "@rmw/coffee-loader": "^0.0.4",
     "@rmw/thisdir": "^0.0.2",
-    "chalk": "^5.0.0",
+    "chalk": "^5.0.1",
     "msgpackr": "^1.5.4",
     "source-map-support": "^0.5.21",
     "zstandard-wasm": "^1.5.0-rev.3"
